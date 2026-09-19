@@ -1,0 +1,130 @@
+texto,intent
+oi,saudacao
+olá,saudacao
+ola,saudacao
+bom dia,saudacao
+boa tarde,saudacao
+boa noite,saudacao
+e aí,saudacao
+eai,saudacao
+tudo bem,saudacao
+oi tudo bem,saudacao
+olá assistente,saudacao
+oi assistente,saudacao
+bom dia assistente,saudacao
+boa noite assistente,saudacao
+vamos começar,saudacao
+quero conversar,saudacao
+começar,saudacao
+hello,saudacao
+
+quero saber sobre um pokemon,buscar_pokemon
+me fale sobre um pokemon,buscar_pokemon
+quero informações sobre um pokemon,buscar_pokemon
+informações de um pokemon,buscar_pokemon
+dados de um pokemon,buscar_pokemon
+me fale sobre pikachu,buscar_pokemon
+me fale sobre charizard,buscar_pokemon
+quero conhecer o pikachu,buscar_pokemon
+quero informações do pikachu,buscar_pokemon
+quero informações do charizard,buscar_pokemon
+me mostre informações sobre mewtwo,buscar_pokemon
+o que você sabe sobre pikachu,buscar_pokemon
+quais são os dados do charizard,buscar_pokemon
+quero consultar um pokemon,buscar_pokemon
+consulte o pikachu para mim,buscar_pokemon
+me mostre os dados do pikachu,buscar_pokemon
+quero detalhes sobre charizard,buscar_pokemon
+fale sobre mewtwo,buscar_pokemon
+
+qual o tipo do pokemon,buscar_tipo
+qual é o tipo do pokemon,buscar_tipo
+que tipo de pokemon é esse,buscar_tipo
+qual o tipo do pikachu,buscar_tipo
+qual é o tipo do charizard,buscar_tipo
+qual o tipo do mewtwo,buscar_tipo
+que tipo é o pikachu,buscar_tipo
+qual é o tipo do bulbasaur,buscar_tipo
+quero saber o tipo do squirtle,buscar_tipo
+me diga o tipo do eevee,buscar_tipo
+qual tipo pertence o charizard,buscar_tipo
+quais são os tipos do charizard,buscar_tipo
+quais tipos o pikachu possui,buscar_tipo
+me informe o tipo do pokemon,buscar_tipo
+como descobrir o tipo do pikachu,buscar_tipo
+quero saber quais tipos o mewtwo possui,buscar_tipo
+qual a categoria de tipo do pokemon,buscar_tipo
+
+quais são as habilidades do pokemon,buscar_habilidades
+quais habilidades o pokemon possui,buscar_habilidades
+quais são as habilidades do pikachu,buscar_habilidades
+me fale as habilidades do charizard,buscar_habilidades
+quero saber as habilidades,buscar_habilidades
+quais habilidades o mewtwo possui,buscar_habilidades
+me diga as habilidades do pikachu,buscar_habilidades
+quais são os poderes do pikachu,buscar_habilidades
+quero conhecer as habilidades do charizard,buscar_habilidades
+quais habilidades o charizard tem,buscar_habilidades
+me informe as habilidades do pokemon,buscar_habilidades
+quero saber quais habilidades pikachu possui,buscar_habilidades
+o que o pikachu consegue fazer,buscar_habilidades
+quais são as habilidades de mewtwo,buscar_habilidades
+me mostre as habilidades do pokemon,buscar_habilidades
+quais poderes o charizard possui,buscar_habilidades
+quais habilidades esse pokemon possui,buscar_habilidades
+
+qual o ataque do pokemon,buscar_status
+qual é o ataque do pokemon,buscar_status
+quanto de hp o pokemon tem,buscar_status
+qual a defesa do pokemon,buscar_status
+qual a velocidade do pokemon,buscar_status
+qual o ataque do pikachu,buscar_status
+qual a velocidade do charizard,buscar_status
+qual a defesa do charizard,buscar_status
+quanto de hp tem o pikachu,buscar_status
+qual o hp do charizard,buscar_status
+quanto de ataque tem o mewtwo,buscar_status
+qual a velocidade do pikachu,buscar_status
+qual é a defesa do pikachu,buscar_status
+me diga o ataque do charizard,buscar_status
+me informe a velocidade do mewtwo,buscar_status
+quero saber o hp do pokemon,buscar_status
+quais são os atributos do pikachu,buscar_status
+me mostre os status do charizard,buscar_status
+
+compare dois pokemon,comparar_pokemon
+compare pikachu e charizard,comparar_pokemon
+qual é mais forte,comparar_pokemon
+quem é mais rápido,comparar_pokemon
+qual pokemon tem mais ataque,comparar_pokemon
+compare esses dois pokemon,comparar_pokemon
+quero comparar dois pokemon,comparar_pokemon
+compare charizard e pikachu,comparar_pokemon
+qual é mais rápido pikachu ou charizard,comparar_pokemon
+qual tem mais ataque pikachu ou charizard,comparar_pokemon
+quem tem mais defesa,comparar_pokemon
+qual é mais forte entre pikachu e charizard,comparar_pokemon
+quero saber qual pokemon é mais rápido,comparar_pokemon
+compare os atributos de pikachu e charizard,comparar_pokemon
+qual pokemon possui mais hp,comparar_pokemon
+qual dos dois tem mais ataque,comparar_pokemon
+me ajude a comparar pikachu e mewtwo,comparar_pokemon
+quero ver uma comparação entre dois pokemon,comparar_pokemon
+
+qual a evolução do pokemon,buscar_evolucao
+qual é a evolução do pikachu,buscar_evolucao
+em que o charmander evolui,buscar_evolucao
+quais são as evoluções,buscar_evolucao
+como o pokemon evolui,buscar_evolucao
+qual a evolução do charmander,buscar_evolucao
+qual a evolução do bulbasaur,buscar_evolucao
+em que o pikachu evolui,buscar_evolucao
+o pikachu possui evolução,buscar_evolucao
+quais são as evoluções do charmander,buscar_evolucao
+quero saber a evolução do eevee,buscar_evolucao
+como o charmander evolui,buscar_evolucao
+me diga a evolução do squirtle,buscar_evolucao
+quero conhecer as evoluções do pokemon,buscar_evolucao
+quais pokemon evoluem a partir do charmander,buscar_evolucao
+qual pokemon vem depois do charmander,buscar_evolucao
+qual é a próxima evolução do bulbasaur,buscar_evolucao

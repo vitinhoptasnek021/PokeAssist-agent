@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>PokeAssist</title>
+
+    <link rel="stylesheet" href="/frontend/style.css">
+</head>
+
+<body>
+
+    <div class="container">
+
+        <header class="header">
+            <h1>PokeAssist</h1>
+            <p>Seu assistente conversacional sobre Pokémon</p>
+        </header>
+
+        <main class="chat-container">
+
+            <div id="chat" class="chat">
+
+                <div class="message bot">
+                    <div class="message-content">
+                        <strong>PokeAssist</strong>
+                        <p>
+                            Olá! Eu sou o PokeAssist.
+                            Posso consultar informações sobre Pokémon,
+                            tipos, habilidades, status e evoluções.
+                        </p>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="input-container">
+
+                <input
+                    type="text"
+                    id="messageInput"
+                    placeholder="Digite sua pergunta..."
+                    autocomplete="off"
+                >
+
+                <button id="sendButton">
+                    Enviar
+                </button>
+
+            </div>
+
+        </main>
+
+    </div>
+
+    <script src="/frontend/script.js"></script>
+
+</body>
+
+</html>

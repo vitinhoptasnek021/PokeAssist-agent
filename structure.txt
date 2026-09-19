@@ -1,0 +1,70 @@
+pokeassist/
+│
+├── app/
+│   ├── main.py
+│   │
+│   ├── api/
+│   │   └── pokemon.py
+│   │
+│   ├── nlu/
+│   │   ├── classifier.py
+│   │   ├── entities.py
+│   │   └── intents.py
+│   │
+│   ├── services/
+│   │   └── pokeapi.py
+│   │
+│   └── models/
+│       └── schemas.py
+│
+├── data/
+│   └── intents.csv
+│
+├── frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+│
+├── models/
+│   └── intent_model.pkl
+│
+├── requirements.txt
+│
+└── README.md
+
+USAGE:
+
+                    USUÁRIO
+                       │
+                       ▼
+              "Qual o ataque
+                do Pikachu?"
+                       │
+                       ▼
+                PRÉ-PROCESSAMENTO
+                       │
+                       ▼
+                CLASSIFICADOR
+                       │
+                       ▼
+              INTENT = buscar_status
+                       │
+                       ▼
+              EXTRAÇÃO DE ENTIDADE
+                       │
+                       ▼
+             pokemon = Pikachu
+             atributo = ataque
+                       │
+                       ▼
+                  POKÉAPI
+                       │
+                       ▼
+              attack = 55
+                       │
+                       ▼
+                 RESPOSTA
+                       │
+                       ▼
+        "O ataque base do Pikachu
+                 é 55."
