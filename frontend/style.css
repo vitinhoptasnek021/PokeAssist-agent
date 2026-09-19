@@ -166,3 +166,8 @@ body {
     background: #aaa;
     cursor: not-allowed;
 }
+
+.logo {
+    width: 280px;
+    height: auto;
+}
